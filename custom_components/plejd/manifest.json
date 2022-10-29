@@ -1,8 +1,14 @@
 {
     "domain": "plejd",
     "name": "Plejd",
-    "dependencies": ["bluetooth"],
-    "codeowners": ["@thomasloven"],
+    "documentation": "https://github.com/thomasloven/hass_plejd",
+    "issue_tracker": "https://github.com/thomasloven/hass_plejd/issues",
+    "dependencies": [
+        "bluetooth"
+    ],
+    "codeowners": [
+        "@thomasloven"
+    ],
     "requirements": [],
     "config_flow": true,
     "version": "0.0.4",
